@@ -1,0 +1,5 @@
+requests
+load-dotenv
+pandas
+SQLAlchemy
+psycopg2-binary
